@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">SignInUpDesign</string>
+    <string name="courier_service">Courier Service</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="sign_in_to_continue">Sign in to continue</string>
+    <string name="you_email_com">you@email.com</string>
+    <string name="email">Email</string>
+    <string name="stars">***************</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">forgot password?</string>
+    <string name="sign_in">Sign in</string>
+    <string name="don_t_have_account">Don\'t have account?</string>
+    <string name="create_a_new_account">Create a new account.</string>
+    <string name="create_account">Create Account</string>
+    <string name="virtual_virus">Virtual Virus</string>
+    <string name="username">Username</string>
+    <string name="_7009111410">7009111410</string>
+    <string name="phone">Phone</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_have_an_account">Already have an account?</string>
 </resources>
